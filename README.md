@@ -5,7 +5,13 @@ A computer lab class at UC Davis in the genetics and genomics major. All class m
 [http://jnmaloof.github.io/BIS180L_web/labs/](http://jnmaloof.github.io/BIS180L_web/labs/)
 
 ## Data Visualization
-This is an essential skill for large datasets. Elegant data visualization serves both producer and consumer of information. We are moving to interactive data visualization for everything. Static plots are great, but what if the consumer of the information wants to ask a different question? 
+This is an essential skill for large datasets. Elegant data visualization serves both producer and consumer of information. We are moving to interactive data visualization for everything. Static plots are great, but what if the consumer information wants to ask a different question? 
+
+Data visualization Application for merging datasets by undergrad Tiffany Ho (now at Cornell in Buckler Lab).
+
+[http://malooflab.phytonetworks.org/apps/qtl-visualization/](http://malooflab.phytonetworks.org/apps/qtl-visualization/)
+
+Source code here: [https://github.com/tiaho/QTL-Visualization](https://github.com/tiaho/QTL-Visualization)
 
 ## Digital Collaborative Project Management
 Digitize everything related to a project and have it in one place. All my projects, meta-data, links to raw data, links to code repositories, and communication are in one place. 
