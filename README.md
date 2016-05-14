@@ -26,7 +26,7 @@ Pre-meeting learning by doing hackathon for high-throughput phenotyping and prog
 
 Cody Markelz (UC Davis)
 Nathan Miller (UW Madison)
-Input from: Malia Gehan and Noah Falghran (Danforth)
+Input from: Malia Gehan and Noah Fahlgren (Danforth)
 
 General Description: 
 Space Rules: One room divided into two halves. The the learning half (blue)and the data half (red). Each half of the room has five themed tables: The blue tables are hardware, cloud computing, databases, image processing, data modeling. The red tables are are divided into the following classes: 3 tables have unsolved image based phenotyping problems, 1 table has solved image based phenotyping problems, 1 table is BYOD (bring your own data).
