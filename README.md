@@ -22,6 +22,8 @@ A weekly gathering of motivated students, post-docs and profs who want to learn 
 [http://mfcovington.github.io/r_club/](http://mfcovington.github.io/r_club/)
 
 ## Plant HackZ
+Pre-meeting learning by doing hackathon for high-throughput phenotyping and programming education.
+
 Cody Markelz (UC Davis)
 Nathan Miller (UW Madison)
 Input from: Malia Gehan and Noah Falghran (Danforth)
